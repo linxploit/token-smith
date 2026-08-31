@@ -3,7 +3,7 @@
 ```
 ╭──────────────────────────────────────╮
 │                                      │
-│  ◆  T  O  K  E  N  S  M  I  T  H  ◆ │
+│     T  O  K  E  N _ S  M  I  T  H    │
 │                                      │
 │       Forge · Crack · Fortify        │
 │                                      │

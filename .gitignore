@@ -1,0 +1,36 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Reports / scan output
+*.report.json
+*.report.csv
+report.json
+report.csv
+output/
+
+# Real tokens/keys accidentally dropped in the repo root during testing
+*.pem
+!examples/*.pem
+token.txt
+!examples/sample_token.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Packaging
+build/
+dist/
+*.egg-info/

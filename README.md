@@ -52,7 +52,7 @@ Everything runs **locally and offline by default**. Nothing is sent anywhere unl
 
 ```
 ╭──────────────────────────────────────╮
-│  ◆  T  O  K  E  N  S  M  I  T  H  ◆  │
+│     T  O  K  E  N _ S  M  I  T  H    │
 ╰──────────────────────────────────────╯
 
 ◆ WEAK-SECRET AUDIT

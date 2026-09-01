@@ -10,7 +10,7 @@
                                ╰───────────────────────────────────────────╯
 ```
 
-### ✦ JWT Security Analyzer & Weak-Secret Auditor ✦
+###  JWT Security Analyzer & Weak-Secret Auditor
 
 **Offline by default. No network request without `--live-test`.**
 

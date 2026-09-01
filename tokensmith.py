@@ -65,12 +65,6 @@ ORG = "Linxploit"
 SITE = "https://linxploit.com"
 PORTFOLIO = "https://linxploit.com/founder"
 
-# --------------------------------------------------------------------------- #
-#  UI toolkit — a deliberately new visual identity: a compact engraved
-#  "seal" badge instead of the full-width block-letter banners used by
-#  the rest of the Linxploit line-up, with its own warm forge/molten-
-#  metal gradient and diamond-bullet accents.
-# --------------------------------------------------------------------------- #
 
 GRADIENT = [
     "\033[38;5;130m", "\033[38;5;166m", "\033[38;5;172m", "\033[38;5;178m",
@@ -173,10 +167,6 @@ def section(title: str, color: str = C_ACC):
 def hr(color=C_MUTE, width=70):
     print(color + BOX["h"] * width + RESET)
 
-
-# --------------------------------------------------------------------------- #
-#  JWT primitives
-# --------------------------------------------------------------------------- #
 
 def b64url_decode(segment: str) -> bytes:
     padding = "=" * (-len(segment) % 4)

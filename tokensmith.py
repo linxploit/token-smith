@@ -310,7 +310,7 @@ def forge_alg_confusion_token(parsed: ParsedJWT, public_key_pem: bytes) -> Optio
     return f"{header_b64}.{parsed.payload_b64}.{sig_b64}"
 
 eedfged
-# --------------------------------------------------------------------------- #
+# ----------------=i\uj=---------------------------------------------------------- #
 
 @dataclass
 class Finding:

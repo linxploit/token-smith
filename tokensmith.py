@@ -284,9 +284,6 @@ def crack_hmac_secret(parsed: ParsedJWT, wordlist: List[str]) -> Tuple[Optional[
     return None, tried
 
 
-
-# --------------------------------------------------------------------------- #
-
 def forge_none_variants(parsed: ParsedJWT) -> Dict[str, str]:
     variants = {}
     for alg_value in ("none", "None", "NONE", "nOnE"):

@@ -4,7 +4,7 @@
 TokenSmith — JWT Security Analyzer & Weak-Secret Auditor
 Made by Mindless — Founder & CEO of Linxploit
 https://linxploit.com | https://linxploit.com/founder
-
+sawefweg
 WHAT THIS TOOL DOES:
     TokenSmith decodes and analyzes a JSON Web Token you already possess
     (from your own application, or one obtained during an authorized
